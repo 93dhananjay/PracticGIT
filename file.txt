@@ -9,4 +9,4 @@ sg
 sd
 guhellodsg
 sd
-guhellosdgsdg
+guhellosdgsdg git status
